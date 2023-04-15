@@ -1,4 +1,4 @@
-# SeqParser-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 Command Sequence Parser: v0.01 (March 12, 2023)
 -------------------------------------------------------------------------------
 This is a sequence parser that parses the data from the buffer filled by the test harness and counts the valid command sequence 0xA55A 
